@@ -16,4 +16,4 @@
 ```
 
 
-#### Note : You may be wondering why 'simple', well, a more complex version was also made, working for arbitrary denomination lists, floating point amount values and has dynamic attribute access (i.e. coin2 still works, despite not being hardcoded). It was not uploaded due to 'high' complexity compared to what was asked - and did not yet received the lastest modifications (mostly cosmetic). 
+#### Note : You may be wondering why 'simple', well, a more complex version was also made, working for arbitrary denomination lists, floating point values and has dynamic attribute access (i.e. coin2 still works, despite not being hardcoded). It was not uploaded due to 'high' complexity compared to what was asked - and did not yet received the lastest modifications (mostly cosmetic). 
